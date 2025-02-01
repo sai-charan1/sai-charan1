@@ -1,4 +1,4 @@
-#  About Me ✨:
+#  About Me ✨
 I'm Currently a 3rd year student pursuing EE at IIT BHilai<br>I'm looking forward to collaborate on AI/ML based Stuff
 
 ## 🌐 Socials:
@@ -36,8 +36,8 @@ I'm Currently a 3rd year student pursuing EE at IIT BHilai<br>I'm looking forwar
 ![YOLO](https://img.shields.io/badge/yolo-%2300C7B7.svg?style=for-the-badge&logo=yolo&logoColor=white) 
 ![Transformers](https://img.shields.io/badge/transformers-%23FF6F00.svg?style=for-the-badge&logo=transformers&logoColor=white) 
 ![LangChain](https://img.shields.io/badge/langchain-%2300C7B7.svg?style=for-the-badge&logo=langchain&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Asp-irin&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Asp-irin&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Asp-irin&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sai-charan1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sai-charan1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sai-charan1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
