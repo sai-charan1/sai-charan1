@@ -1,5 +1,5 @@
 #  About Me ✨
-I'm Currently a 3rd year student pursuing EE at IIT BHilai<br>I'm looking forward to collaborate on AI/ML based Stuff
+I'm Currently a 3rd year student pursuing EE at IIT BHilai<br>I'm looking forward to collaborate on AI/ML,Full Stack based Stuff
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sai._.charan_19/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sripada-sai-charan/)
