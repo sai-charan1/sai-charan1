@@ -12,8 +12,6 @@ I'm deeply interested in how **LLMs, agents, and real-world deployment tools** c
 
 ### 🚀 Programming & Scripting:
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white)
 
 ### 🧠 Machine Learning & AI:
@@ -29,7 +27,6 @@ I'm deeply interested in how **LLMs, agents, and real-world deployment tools** c
 ![Whisper](https://img.shields.io/badge/whisper-%2300C7B7.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/gemini-vision--llm-%2300A3E0.svg?style=for-the-badge&logo=google&logoColor=white)
 ![Claude](https://img.shields.io/badge/claude-anthropic-%23E34F26.svg?style=for-the-badge&logo=anthropic&logoColor=white)
-![Groq](https://img.shields.io/badge/groq-llm-runtime-%23FF6F00.svg?style=for-the-badge&logo=groq&logoColor=white)
 
 ### 🗣️ Multimodal & Speech:
 ![ElevenLabs](https://img.shields.io/badge/elevenlabs-TTS-%23E4405F.svg?style=for-the-badge&logo=elevenlabs&logoColor=white)
@@ -57,7 +54,13 @@ I'm deeply interested in how **LLMs, agents, and real-world deployment tools** c
 ![Matplotlib](https://img.shields.io/badge/matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sai-charan1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sai-charan1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sai-charan1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sai-charan1&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sai-charan1&theme=radical&hide_border=false" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-charan1&layout=compact&theme=radical&hide_border=false" />
+</p>
