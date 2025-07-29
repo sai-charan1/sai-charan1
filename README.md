@@ -1,5 +1,9 @@
-#  About Me ✨
-I'm Currently a 4th year student pursuing EE at IIT BHilai<br>I'm looking forward to collaborate on AI/ML,Full Stack based Stuff
+# ✨ About Me
+
+Hi! I'm **Sai Charan**, a final-year student at **IIT Bhilai** passionate about building intelligent systems that combine **AI/ML**, **multimodal interaction**, and **full-stack engineering**.
+
+I'm deeply interested in how **LLMs, agents, and real-world deployment tools** can be combined to create voice-, vision-, and context-aware applications. From deploying computer vision systems and conversational assistants to building scalable backends, I enjoy solving problems that bridge cutting-edge AI with practical user experiences.
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sai._.charan_19/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sripada-sai-charan/)
