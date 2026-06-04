@@ -1,8 +1,18 @@
 # ✨ About Me
 
-Hi! I'm **Sai Charan**, graduate from **IIT Bhilai** passionate about building intelligent systems that combine **AI/ML**, **multimodal interaction**, and **full-stack engineering**.
+Hi! I'm **Sai Charan**, a graduate from **IIT Bhilai** passionate about building intelligent systems that combine **AI/ML**, **multimodal interaction**, and **full-stack engineering**.
 
-I'm deeply interested in how **LLMs, agents, and real-world deployment tools** can be combined to create voice-, vision-, and context-aware applications. From deploying computer vision systems and conversational assistants to building scalable backends, I enjoy solving problems that bridge cutting-edge AI with practical user experiences.
+I'm deeply interested in how **LLMs, agents, and real-world deployment tools** combine to create voice-, vision-, and context-aware applications — from RAG pipelines and voice agents to multimodal assistants and async interview platforms.
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| [enterprise-rag-analyst](https://github.com/sai-charan1/enterprise-rag-analyst) | Enterprise RAG + DeepAgents with hybrid retrieval & eval metrics |
+| [compliance-voice-agent](https://github.com/sai-charan1/compliance-voice-agent) | Production voice agent: FAQ RAG, urgency routing, 59 tests |
+| [VIORA](https://github.com/sai-charan1/VIORA) | Vision + voice multimodal agent (LangGraph, Groq, Gradio) |
+| [Recruitment-Automation-Agent](https://github.com/sai-charan1/Recruitment-Automation-Agent) | Full-stack AI async video interviews |
+| [Empathy-Engine](https://github.com/sai-charan1/Empathy-Engine) | Emotion-aware TTS for sales & CX |
 
 
 ## 🌐 Socials:
