@@ -1,76 +1,139 @@
-# ✨ About Me
-
-Hi! I'm **Sai Charan**, a graduate from **IIT Bhilai** passionate about building intelligent systems that combine **AI/ML**, **multimodal interaction**, and **full-stack engineering**.
-
-I'm deeply interested in how **LLMs, agents, and real-world deployment tools** combine to create voice-, vision-, and context-aware applications — from RAG pipelines and voice agents to multimodal assistants and async interview platforms.
-
-## 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| [enterprise-rag-analyst](https://github.com/sai-charan1/enterprise-rag-analyst) | Enterprise RAG + DeepAgents with hybrid retrieval & eval metrics |
-| [compliance-voice-agent](https://github.com/sai-charan1/compliance-voice-agent) | Production voice agent: FAQ RAG, urgency routing, 59 tests |
-| [VIORA](https://github.com/sai-charan1/VIORA) | Vision + voice multimodal agent (LangGraph, Groq, Gradio) |
-| [Recruitment-Automation-Agent](https://github.com/sai-charan1/Recruitment-Automation-Agent) | Full-stack AI async video interviews |
-| [Empathy-Engine](https://github.com/sai-charan1/Empathy-Engine) | Emotion-aware TTS for sales & CX |
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sripada-sai-charan/)
-
-# 💻 Tech Stack:
-
-### 🚀 Programming & Scripting:
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
-![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white)
-
-### 🧠 Machine Learning & AI:
-![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white) 
-![Keras](https://img.shields.io/badge/keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white) 
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/yolo-%2300C7B7.svg?style=for-the-badge&logo=yolo&logoColor=white)
-![XGBoost](https://img.shields.io/badge/xgboost-%23FF6F00.svg?style=for-the-badge&logo=xgboost&logoColor=white)
-![Transformers](https://img.shields.io/badge/transformers-%23FF6F00.svg?style=for-the-badge&logo=transformers&logoColor=white)
-![LangChain](https://img.shields.io/badge/langchain-%2300C7B7.svg?style=for-the-badge&logo=langchain&logoColor=white)
-![Whisper](https://img.shields.io/badge/whisper-%2300C7B7.svg?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/gemini-vision--llm-%2300A3E0.svg?style=for-the-badge&logo=google&logoColor=white)
-![Claude](https://img.shields.io/badge/claude-anthropic-%23E34F26.svg?style=for-the-badge&logo=anthropic&logoColor=white)
-
-### 🗣️ Multimodal & Speech:
-![ElevenLabs](https://img.shields.io/badge/elevenlabs-TTS-%23E4405F.svg?style=for-the-badge&logo=elevenlabs&logoColor=white)
-![G-TTS](https://img.shields.io/badge/google--tts-%23FFCD00.svg?style=for-the-badge&logo=google&logoColor=black)
-![OpenAI Whisper](https://img.shields.io/badge/whisper-STT-%2300C7B7.svg?style=for-the-badge&logo=openai&logoColor=white)
-
-### 🌐 Full Stack & Backend:
-![NodeJS](https://img.shields.io/badge/nodejs-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/expressjs-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-![Gradio](https://img.shields.io/badge/gradio-%2364BCF4.svg?style=for-the-badge&logo=gradio&logoColor=white)
-
-### 📦 Tools & Infra:
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-
-### 📊 Data & Visualization:
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)
-
-
-# 📊 GitHub Stats
+<h1 align="center">Hi, I'm Sai Charan 👋</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sai-charan1&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sai-charan1&theme=radical&hide_border=false" height="180" />
+  <strong>AI Engineer · Multimodal Systems · Full-Stack</strong><br/>
+  IIT Bhilai · Building agents, RAG, and voice interfaces that ship
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-charan1&layout=compact&theme=radical&hide_border=false" />
+  <a href="https://www.linkedin.com/in/sripada-sai-charan/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/sai-charan1">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
+
+---
+
+## About Me
+
+I'm **Sai Charan**, a graduate from **IIT Bhilai** focused on **production-oriented AI systems** — not just notebooks, but services people can run, test, and deploy.
+
+I work at the intersection of:
+
+- **LLM agents & orchestration** (LangGraph, tool calling, structured outputs)
+- **RAG & retrieval** (hybrid search, evaluation, grounded answers)
+- **Voice & multimodal UX** (STT/TTS pipelines, vision tools, real-time demos)
+- **Full-stack delivery** (FastAPI, React, Streamlit/Gradio, CI/CD)
+
+I'm especially interested in systems that are **auditable, testable, and latency-aware** — the bar for real-world GenAI products.
+
+---
+
+## What I'm Building
+
+```text
+Documents  →  Ingest · Chunk · Embed  →  Hybrid RAG  →  Multi-agent answers
+Voice      →  STT · FAQ/RAG · LLM     →  Escalation  →  TTS / PSTN
+Multimodal →  Speech · Vision · Agent  →  Tools       →  Voice UI
+```
+
+---
+
+## Featured Projects
+
+| Project | Stack | Highlights |
+|:--------|:------|:-----------|
+| [**enterprise-rag-analyst**](https://github.com/sai-charan1/enterprise-rag-analyst) | DeepAgents · Chroma · BM25 · Streamlit | Enterprise RAG, hybrid retrieval, hallucination & precision/recall eval |
+| [**compliance-voice-agent**](https://github.com/sai-charan1/compliance-voice-agent) | Pipecat · Deepgram · Groq · Twilio | FAQ RAG, LLM escalation, urgency routing, **59 pytest tests** |
+| [**VIORA**](https://github.com/sai-charan1/VIORA) | LangGraph · Gemini · Groq Vision · Gradio | Vision + voice multimodal ReAct agent |
+| [**Recruitment-Automation-Agent**](https://github.com/sai-charan1/Recruitment-Automation-Agent) | React · FastAPI · Whisper | Async video interviews, transcription, recruiter dashboard |
+| [**Empathy-Engine**](https://github.com/sai-charan1/Empathy-Engine) | VADER · FastAPI · pyttsx3 | Emotion-aware TTS for sales & customer experience |
+
+<p align="center">
+  <a href="https://github.com/sai-charan1?tab=repositories">
+    <img src="https://img.shields.io/badge/View_all_repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="All repos"/>
+  </a>
+</p>
+
+---
+
+## Tech Stack
+
+<details open>
+<summary><b>Languages & Data</b></summary>
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>AI / ML / GenAI</b></summary>
+<br/>
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+</details>
+
+<details open>
+<summary><b>Agents · Voice · Vision</b></summary>
+<br/>
+
+![Groq](https://img.shields.io/badge/Groq-LLM_API-000000?style=flat-square)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logo=elevenlabs&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>Backend · Frontend · MLOps</b></summary>
+<br/>
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-F97316?style=flat-square&logo=gradio&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+</details>
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sai-charan1&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sai-charan1&theme=radical&hide_border=true" height="165" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-charan1&layout=compact&theme=radical&hide_border=true" alt="Top languages"/>
+</p>
+
+---
+
+## Let's Connect
+
+- **LinkedIn:** [sripada-sai-charan](https://www.linkedin.com/in/sripada-sai-charan/)
+- **GitHub:** [@sai-charan1](https://github.com/sai-charan1)
+- **Open to:** AI/ML engineering roles, agentic systems, RAG platforms, voice AI
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sai-charan1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
+
+---
+
+<p align="center"><i>Thanks for stopping by — feel free to star or fork any project that interests you.</i></p>
